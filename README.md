@@ -4,6 +4,9 @@ The Friendly Care web app was built in occasion of the 2020 [TIM Smart Spaces Ha
 ## Demo
 ***IMPORTANT*** Please access the website one at a time, as the Cloud Vision API has a rate limit of 1 request per second.
 https://friendlycare.uc.r.appspot.com
+
+[![Watch the video](https://i.imgur.com/fahqhGw.mp4)](https://youtu.be/l35QSxJKMA0)
+
 ## The challenge
 #### **Topic 5: Care Residence**
 
