@@ -145,6 +145,7 @@ Once the web app is live you can start using its intuitive interface. Make sure 
 Enjoy and stay well!
 
 ## Dialogflow chatbot example
+Install this [Chrome extension](https://chrome.google.com/webstore/detail/github-%2B-mermaid/goiiopgdnkogdbjmncgedmgpoajilohe/related?hl=en) to view the diagram below in GitHub.
 
 ```mermaid
 sequenceDiagram
