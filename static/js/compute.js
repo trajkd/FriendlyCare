@@ -98,8 +98,8 @@ window.setInterval(function(){
 		"method": "POST",
 		"timeout": 0,
 		"headers": {
-		// Change to your API key
-		"apikey": "izz6sXoXn00q6TqYt6VmtWUCqBpznsPy",
+		// Put your API key
+		"apikey": "",
 		"Content-Type": "application/json"
 		},
 		"data": JSON.stringify({"requests":[{"image":{"content":canvas.toDataURL("image/png").split(",")[1]},"features":[{"type":"FACE_DETECTION"}]}]}),
