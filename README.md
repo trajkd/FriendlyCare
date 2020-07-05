@@ -5,7 +5,7 @@ The Friendly Care web app was built in occasion of the 2020 [TIM Smart Spaces Ha
 ***IMPORTANT*** Please access the website one at a time, as the Cloud Vision API has a rate limit of 1 request per second.
 https://friendlycare.uc.r.appspot.com
 
-[![Watch the video](https://i.imgur.com/fahqhGw.mp4)](https://youtu.be/l35QSxJKMA0)
+[![Watch the video](https://i.imgur.com/0jO4SZU.png)](https://youtu.be/l35QSxJKMA0)
 
 ## The challenge
 #### **Topic 5: Care Residence**
@@ -22,7 +22,10 @@ In which way technology can have a real impact on the use of spaces in which we 
 Let's explore the potential of the most cutting-edge technologies within the context of assistance to people in need, the elderly and the disabled in an hospital setting or health care services.
 
 ## Our proposed solution
-We've built a web app that tracks the emotion/mood through facial recognition and vocal interaction and provides suggestions and alerts about your level of motivation and tiredness. This will help the person or his caregivers to get a good picture about what they are feeling.
+We've built a web app that tracks the emotion/mood through facial recognition and vocal interaction and provides suggestions and alerts about your level of motivation and tiredness. This will help the person or his caregivers to get a good picture about what they are feeling. This web app can be also integrated with a robot using an application like [FriendlyCareRobotics](https://github.com/trajkd/FriendlyCareRobotics).
+
+## In development - A better chatbot
+A companion to this web app can be a chatbot that uses fulfillment with webhooks to get more targeted answers and suggestions. The chatbot will use facial recognition and sentiment analysis on the words sent to the chatbot to judge the level of motivation/tiredness. An initial version of this chatbot is available as [FriendlyCareChatbot](https://github.com/trajkd/FriendlyCareChatbot).
 
 ## Usage of APIs
 In order to work properly, the web app needs to communicate with a few APIs. 
